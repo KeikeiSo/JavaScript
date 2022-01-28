@@ -5,7 +5,7 @@ let c = 10;
 
 let person = {
     name: 'Callia',
-    age: 19
+    age: 20
 };
 
 person.name = 'LOL';
